@@ -1,0 +1,75 @@
+{
+	"folders": [
+		{
+			"name": "Tropical Paradise",
+			"path": "../.."
+		},
+		{
+			"name": "TEST1",
+			"path": "../../../../TEST1"
+		},
+		{
+			"name": "TEST2",
+			"path": "../../../../TEST2"
+		},
+		{
+			"name": "TEST3",
+			"path": "../../../TEST3"
+		},
+		{
+			"name": "TEST 4",
+			"path": "../../../TEST 4"
+		},
+		{
+			"name": "TEST 5",
+			"path": "../../../TEST 5"
+		},
+		{
+			"name": "TEST 6",
+			"path": "../../../TEST 6"
+		},
+		{
+			"name": "K2-1",
+			"path": "../../../K2-1"
+		},
+		{
+			"name": "K2-2",
+			"path": "../../../K2-2"
+		},
+		{
+			"name": "STRONA-2",
+			"path": "../../../STRONA-2"
+		},
+		{
+			"name": "TEST 7",
+			"path": "../../../TEST 7"
+		},
+		{
+			"name": "TEST 8",
+			"path": "../../../TEST 8"
+		},
+		{
+			"name": "TEST 9",
+			"path": "../../../TEST 9"
+		},
+		{
+			"name": "TEST 10",
+			"path": "../../../TEST 10"
+		},
+		{
+			"name": "TEST 11",
+			"path": "../../../TEST 11"
+		},
+		{
+			"name": "TEST 12",
+			"path": "../../../TEST 12"
+		},
+		{
+			"name": "TEST 13 - GIT",
+			"path": "../../../TEST 13 - GIT"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tropical Paradise"
+	}
+}
